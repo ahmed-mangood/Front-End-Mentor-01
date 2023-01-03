@@ -80,7 +80,7 @@ body {
     padding: 10px 38px;
 }
 /* Desktop Style */
-@media(min-width: 375px) {
+@media(min-width: 799px) {
     body {
         width: 1440px;
     }
