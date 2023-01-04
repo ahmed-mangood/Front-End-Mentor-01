@@ -97,6 +97,7 @@ body {
         width: 340px;
         height: 472px;
         border-bottom-left-radius: 8px;
+        background-image: url('images/image-product-desktop.jpg');
     }
     .card p {
         width: 245px;
