@@ -84,7 +84,7 @@ body {
 @media(min-width: 799px) {
     body {
         width: 1440px;
-        margin: 180px auto;
+        margin: 178px auto;
     }
     .card {
         flex-direction: row;
@@ -97,7 +97,7 @@ body {
     }
     .card .card-img {
         width: 340px;
-        height: 472px;
+        height: 452px;
         border-bottom-left-radius: 8px;
         background-image: url('images/image-product-desktop.jpg');
     }
