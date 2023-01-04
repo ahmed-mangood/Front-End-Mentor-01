@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ahmed-mangood/Front-End-Mentor-01)
-- Live Site URL: [Add live site URL here](https://ahmed-mangood.github.io/Front-End-Mentor-01)
+- Solution URL: [solution URL](https://github.com/ahmed-mangood/Front-End-Mentor-01)
+- Live Site URL: [live site URL](https://ahmed-mangood.github.io/Front-End-Mentor-01)
 
 ### Built with
 
