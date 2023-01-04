@@ -17,6 +17,7 @@ body {
 .card .card-img {
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
+    height: 400px;
 }
 .card-content {
     display: flex;
@@ -83,6 +84,7 @@ body {
 @media(min-width: 799px) {
     body {
         width: 1440px;
+        margin: 200px auto;
     }
     .card {
         flex-direction: row;
