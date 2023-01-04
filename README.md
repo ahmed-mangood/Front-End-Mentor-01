@@ -46,7 +46,7 @@ I learned how to create a product card like the one found in e-commerce sites, a
 
 ### Continued development
 
-I am looking forward to learn more HTML and CSS and more user interface technologies like javascript to be a Fronend developer.
+I am looking forward to learn more HTML and CSS and more user interface technologies like javascript to be a Frontend developer.
 
 ### Useful resources
 
