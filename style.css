@@ -84,7 +84,7 @@ body {
 @media(min-width: 799px) {
     body {
         width: 1440px;
-        margin: 200px auto;
+        margin: 180px auto;
     }
     .card {
         flex-direction: row;
